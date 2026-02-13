@@ -8,7 +8,7 @@ int main()
 	
 	char truth[5][100]={
 	"Who's Your Crush?",
-	"What's Your Most Embarrasing Moment?",
+	"What's Your Most Embarrassing Moment?",
 	"Have You Ever Peed In Bed?",
 	"Have You Ever Kissed A Girl?",
 	"What's Your Weirdest Habit?",
@@ -55,4 +55,5 @@ int main()
 		
 	}
 	return 0;
+
 }
